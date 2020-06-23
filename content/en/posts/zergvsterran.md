@@ -1,7 +1,7 @@
 ---
-title: Markdown Syntax Guide
+title: Zerg vs Terran
 date: 2019-12-20T12:00:06+09:00
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: ZvT Guides
 draft: false
 hideToc: false
 enableToc: true
@@ -18,7 +18,7 @@ categories:
 - syntax
 series:
 - Themes Guide
-image: images/feature1/markdown.png
+image: images/feature2/ultralisk.png
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.

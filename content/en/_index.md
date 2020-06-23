@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Zergtopia
     subtitle:
-      - The world’s fastest framework for building websites
+      - The best site for up to date guides
     titleColor: 
     titleShadow: true
     titleFontSize: 44
@@ -18,7 +18,7 @@ header:
     spaceBetweenTitleSubtitle: 16
   
   - type: img
-    imageSrc: images/header/background.jpg
+    imageSrc: images/feature2/roach.png
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center

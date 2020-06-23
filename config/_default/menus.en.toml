@@ -5,32 +5,16 @@
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
+  identifier = "Guides"
+  name = "Guides"
+  url = "guides"
   weight = 2
 
 [[main]]
-  identifier = "presentation"
-  name = "Pt"
-  url = "presentation"
+  identifier = "videos"
+  name = "Videos"
+  url = "videos"
   weight = 3
-
-[[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
-  weight = 4
-    
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
 
 [[main]]
   identifier = "posts"

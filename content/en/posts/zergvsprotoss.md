@@ -1,7 +1,7 @@
 ---
-title: "Shortcodes"
+title: "Zerg vs Protoss"
 date: 2020-01-25T06:40:51+09:00
-description: tabs, code-tabs, expand, alert, warning, notice, img, box
+description: ZvP guides
 draft: false
 hideToc: false
 enableToc: true
@@ -13,7 +13,7 @@ series:
 -
 categories:
 -
-image: images/feature3/code-file.png
+image: images/feature2/zergvprotoss.png
 ---
 
 ## Markdownify box

@@ -42,14 +42,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
+myname = "Egor Dyuzhev"
+email = "egordyuzhev@gmail.com"
+whoami = "Sc2 Grandmaster"
+bioImageUrl = "/images/whoami/itsme.jpg"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Oshawa, Ontario"
+organization = "Team"
+link = "sc2ladder.com"
 
 # sidebar
 enableBio = true
