@@ -75,31 +75,103 @@ Benchmark: Around this time you should be able to reach 50 drones (some will be 
 After defending start 9th and 10th Queens (you will now have 7 defending Queens and 3 injecting Queens make sure that after you have defending you set one queen for injecting the third as the 7th and 8th queens you make inject your main and natural)
 @5:30 – Second Evolution Chamber + 2 Extractors
 
-## Blockquotes
+## 1-1-1 Reaction
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+To Scout: One thing to keep an eye on is whether or not it is a fast 3 CC 1-1-1 or a regular 1-1-1. With the fast 3 CC builds, the Terran will get their third command center before their starport, while with normal 1-1-1 builds the starport comes before the third command center. The main difference you want to make in your build is go lower on the queen count against fast 3 CC to get out a higher drone count and keep up with the Terran better.
+To Scout Mech/Bio: @~4:40 Send 2 lings or an overlord to scout around 5 minutes (focus on if they are producing marines or continuing to produce hellions more than 6 hellions usually indicates mech, more than 8 hellions pretty much guarantees mech).
 
-#### Blockquote without attribution
+VS Bio 1-1-1
+Note: If you want to play Ling Bane Hydra Swarmhost against mech, follow this VS Bio 1-1-1 mid-game.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+@35 Drones – Go up to 12-16 Zerglings to defend hellions
+@100% Queens – 3x Queens (if not fast 3cc)
+@4:30 – 2x Evolution Chamber
+@4:30 VS Banshee 1 Spore in each base (tech lab starport + researching tech lab)
+@4:30 VS Liberator 1 Spore in strong liberator positions (map dependent)
+@100% Evolution Chambers – +1 Melee and +1 Carapace
+@5:00 – Fourth Base + 2x Extractors
+@100 Gas – Lair
+@50 Gas after lair – Baneling Nest + 2 Extractors (+6th Extractor if going spire)
+@100% Lair – Baneling Speed
+@300 Minerals – Macro Hatchery
+Benchmark: 6:00 66 drones, fourth base, lair, bane nest and +1/+1 on the way or completed
 
-#### Blockquote with attribution
+@6:30 Hydralisk Den or Spire
+@6:50 / @100% +1 / +1 – +2 Melee and +2 Carapace
 
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
+Note: At this point it is common for Terran to make a 2-2 bio push supported by siege tanks or widow mines. Be on alert for this push and make ling bane hydra or ling bane muta off of a 66-70 drone economy. However, ensure that you scout as not all Terrans will make this push depending on the state of the game. If the Terran is not pushing out soon, you should go up to ~80 drones quickly. The Terran will want to have at least some map presence to deny creep, such as 16 stim marines and 2 medivacs, so it is a good idea to make at least some army (~30 lings and some hydras or mutas) off of 66-70 drones before going to 80.
 
+#### VS Mech 1-1-1
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+VS Mech 1-1-1
+Note: Follow this is playing roach swarmhost or roach hydra viper.
 
-## Tables
+@35 Drones – Go up to 12-16 Zerglings to defend hellions
+@100% Queens – 3x Queens (if not fast 3cc)
+@4:30 – 2x Evolution Chamber
+@4:30 VS Banshee 1 Spore in each base (tech lab starport + researching tech lab)
+@4:30 VS Liberator 1 Spore in strong liberator positions (map dependent)
+@100% Evolution Chambers – +1 Range +1 Carapace
+@5:00 – Fourth Base + 2x Extractors + Roach Warren
+@100 Gas – Lair + 3x Extractors
+@100% Lair – Glial Reconstitution (Roach Speed)
+Benchmark: 6:00 66 drones, fourth base, lair, Roach Warren and +1/+1 all on the way or completed
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+At this point scout and build roach ravager as a reaction to defend. Generally around 15 roaches is enough to defend just hellions along with your queens, but if they are building cyclones or siege tanks more roach ravager may be required. Additionally these roaches are needed along with the queens to defend double thor drops which is a common mech strategy past the initial hellion or hellbat pressure. After defending these attacks, you can drone to 80 safely.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+#### Mid Game VS Bio
+
+Checkpoint: Successfully defended the Terran opening + follow-up, 60-70+ drones depending on the type of follow-up, baneling speed close to finishing or finished, 4 bases and a macro hatchery, and a tier 2 tech started (hydralisk den or spire), +1 melee and +2 carapace close to finishing if post 2-1-1 or +2 melee +2 carapace started if defending 1-1-1.
+
+This checkpoint can take varying amounts of time to complete based on how aggressive the Terran is pushing in and how easily you are able to shut it down. There are 4 possible tech paths that you can go down in ZvT.
+
+### Hydralisk
+Generally 5 gases supports a solid ling bane hydra army, which means you do not need to take additional gases until you want to start teching. You can take gases slightly earlier or later depending on the game, your economy and how many banelings you have needed to make throughout the game.
+
+@100% Hydralisk Den / ~7:00 – Muscular Augments (Hydralisk Speed)
+@100% Muscular Augments / ~8:10 – Grooved Spines (Hydralisk Range)
+
+You want to make ~20 Hydras maximum if going the ling bane hydra ultra path. This is primarily due to ultralisks getting stuck on hydras, but also once you get past 20 hydras it is hard to get concaves large enough for them all to be attacking. When engaging with ling bane hydra you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
+
+### Mutalisk
+Mutalisk are more gas intensive than hydralisk which means you need to take your gases faster. If you are going mutalisk, you should already have 6 gases.
+
+@100% 4th Hatchery + ~70+ drones – 2x Extractors (total 8 gases)
+@100% Spire – +1 Air Attacks
+@100% Spire – ~14 Mutalisk | enough Mutalisk for harass, map control and to shut down drops
+
+#### Late Game vs Bio
+
+Checkpoint: You can start this late game vs bio section as soon as it is safe to drone up to 80. Generally you will have started producing your mid game tech units and are safe to drone to 80 once you have defended whatever type of pressure the Terran is choosing to apply (or right away if they are playing super defensive which is rare with bio). Generally this is whatever followup after 2-1-1 they do or defending a bio (+tank/mine) push after the opening hellion pressure if they opened with 1-1-1.
+
+Add the ultralisk or broodlord build to the below for late game vs bio depending on which late game tech you want to play.
+
+Drone to ~80 + take a 5th base
+@+1/+2|+2/+2 – +2 melee (if 2-1-1) and +1 Range if you are playing Hydralisk into Broodlord
+@8:00-8:30 – Infestation Pit + 1 Extractor (if hydralisk)| As you have the gas for it (depends on the game, could be later than 8:30)
+@100% Infestation Pit – Hive + 2 Extractors (if hydralisk 8 total now)
+@100% Hive – ~3-4 Vipers if they are Bio Tank
+@300 Gas – +3 Carapace
+@200 Gas – Adrenal Glands
+@200 Gas – +3 Melee
+
+## Ultralisk
+Ultralisk are the most common initial tier 3 tech in ZvBio. Your Ultralisk cavern should be fairly soon after hive finishes. The cavern timing is mostly dependent on how fast you need vipers and how much gas you have available.
+
+@100% Hive – Ultralisk Cavern
+@100% Ultralisk Cavern – Chitinous Plating + Ultra Production Right away
+
+Ultralisk are powerful late game units, so make sure you prioritize making 3+ Ultras once you have the tech available.
+
+## Broodlord Timing
+Faster Broodlord builds can be very strong especially against Terrans which invest more heavily into siege tanks. Building more than 20 hydralisks can be good when going broodlords since there is nothing on the ground for your hydralisks to get stuck on (or to get stuck on your hydralisks). Additionally extra queen production is good as transfuse is a crucial ability when broodlords are a main part of your army.
+
+@100% Infestation Pit – Spire right after starting hive | If you don’t already have a spire from going Mutalisk
+@100% Spire 100% Hive – Greater Spire
+Make 6-10 Corruptors to Morph into broodlords
+@100% Greater Spire – +1 Flier Attack
+
+Generally when going broodlord you want to hit a timing with them before the Terran is ready. This timing is strongest when you can push a creep pathway enough to include queens in your push. Send your corruptors closer to your opponents base and find  a safe spot to morph into broodlords. Vipers are also powerful in this push as you can abduct vikings into your hydras / queens.
 
 #### Inline Markdown within tables
 
