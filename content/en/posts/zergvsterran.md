@@ -26,21 +26,20 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 ## Standard opener
 
-This opening build sets you up in a solid defensive position with a strong economy if your opponent is playing standard. If the Terran is doing anything on 1 base, such as proxy barracks or 3 barracks reaper, you will need to deviate from this opening. 
+Sentences here
 
 13 – Overlord
 16 – Hatchery (pull a drone from your mineral line @ ~200 minerals)
 18 – Gas (rally 17th drone from egg)
 17 – Spawning Pool (rally 18th drone from egg)
-Saturate Gas through rallying the next 3 drones
-20 – Overlord
+Saturate Gas through rallying the next 2 drones and 1 from minerals
 20 – 2x Queens 4x Lings
 @60 Gas – Pull 2 drones off of gas | Send 1 of these drones to take your Third base
-28 – Third Hatchery
-29 – Third Queen (main base) | Send your 4 lings to where the reaper can jump into your main and your first two queens to your natural
-31 – Metabolic Boost (Zergling Speed)
+27 – Third Hatchery
+@100 gas - metabolic boost (zergling speed)
+29 – Third Queen
 31 – Overlord
-@100% first inject (~3:05) – Make 2 drones from your main and rally into gas
+@100% first inject – Make 2 drones from your main and rally into gas
 40 – Overlord
 42 – Fourth Queen (@Natural Base)
 @3:30 Send overlord into their main to scout
@@ -52,8 +51,7 @@ Saturate Gas through rallying the next 3 drones
 #### Reaction VS 2-1-1
 
 Reaction VS 2-1-1
-2-1-1 indicates the 2 barracks, 1 factory, 1 starport 16 stim marine drop @ 5 minutes.
-To Scout: there are many ways to scout the 2-1-1. Generally, just seeing reactor barracks heavily indicates 2-1-1. 2-1-1 will have a high number of marines in the early game which you will see with overlords. If you see 2 barracks early, 1 with reactor and 1 with tech lab or the factory making a reactor for the starport to swap onto you are playing against some style of 2-1-1. There are more indicators that can tell you that it is some style of 2-1-1, however I would consider those listed above as the most common.
+Sentences here
 
 @3:40 – Evolution Chamber
 @100% Evolution Chamber (4:05) – +1 Carapace
@@ -69,8 +67,8 @@ After defending start 9th and 10th Queens (you will now have 7 defending Queens 
 
 #### 1-1-1 Reaction
 
-To Scout: One thing to keep an eye on is whether or not it is a fast 3 CC 1-1-1 or a regular 1-1-1. With the fast 3 CC builds, the Terran will get their third command center before their starport, while with normal 1-1-1 builds the starport comes before the third command center. The main difference you want to make in your build is go lower on the queen count against fast 3 CC to get out a higher drone count and keep up with the Terran better.
-To Scout Mech/Bio: @~4:40 Send 2 lings or an overlord to scout around 5 minutes (focus on if they are producing marines or continuing to produce hellions more than 6 hellions usually indicates mech, more than 8 hellions pretty much guarantees mech).
+What to scout for here
+
 
 VS Bio 1-1-1
 Note: If you want to play Ling Bane Hydra Swarmhost against mech, follow this VS Bio 1-1-1 mid-game.
@@ -91,7 +89,7 @@ Benchmark: 6:00 66 drones, fourth base, lair, bane nest and +1/+1 on the way or 
 @6:30 Hydralisk Den or Spire
 @6:50 / @100% +1 / +1 – +2 Melee and +2 Carapace
 
-Note: At this point it is common for Terran to make a 2-2 bio push supported by siege tanks or widow mines. Be on alert for this push and make ling bane hydra or ling bane muta off of a 66-70 drone economy. However, ensure that you scout as not all Terrans will make this push depending on the state of the game. If the Terran is not pushing out soon, you should go up to ~80 drones quickly. The Terran will want to have at least some map presence to deny creep, such as 16 stim marines and 2 medivacs, so it is a good idea to make at least some army (~30 lings and some hydras or mutas) off of 66-70 drones before going to 80.
+vs 2-2 push here
 
 ## VS Mech 1-1-1
 
@@ -109,13 +107,13 @@ Note: Follow this is playing roach swarmhost or roach hydra viper.
 @100% Lair – Glial Reconstitution (Roach Speed)
 Benchmark: 6:00 66 drones, fourth base, lair, Roach Warren and +1/+1 all on the way or completed
 
-At this point scout and build roach ravager as a reaction to defend. Generally around 15 roaches is enough to defend just hellions along with your queens, but if they are building cyclones or siege tanks more roach ravager may be required. Additionally these roaches are needed along with the queens to defend double thor drops which is a common mech strategy past the initial hellion or hellbat pressure. After defending these attacks, you can drone to 80 safely.
+What to scout after
 
 ## Mid Game VS Bio
 
-Checkpoint: Successfully defended the Terran opening + follow-up, 60-70+ drones depending on the type of follow-up, baneling speed close to finishing or finished, 4 bases and a macro hatchery, and a tier 2 tech started (hydralisk den or spire), +1 melee and +2 carapace close to finishing if post 2-1-1 or +2 melee +2 carapace started if defending 1-1-1.
+Checkpoint: 
 
-This checkpoint can take varying amounts of time to complete based on how aggressive the Terran is pushing in and how easily you are able to shut it down. There are 4 possible tech paths that you can go down in ZvT.
+
 
 #### Hydralisk
 Generally 5 gases supports a solid ling bane hydra army, which means you do not need to take additional gases until you want to start teching. You can take gases slightly earlier or later depending on the game, your economy and how many banelings you have needed to make throughout the game.
@@ -148,7 +146,7 @@ Drone to ~80 + take a 5th base
 @200 Gas – +3 Melee
 
 #### Ultralisk
-Ultralisk are the most common initial tier 3 tech in ZvBio. Your Ultralisk cavern should be fairly soon after hive finishes. The cavern timing is mostly dependent on how fast you need vipers and how much gas you have available.
+Ultra advice
 
 @100% Hive – Ultralisk Cavern
 @100% Ultralisk Cavern – Chitinous Plating + Ultra Production Right away
@@ -165,7 +163,7 @@ Faster Broodlord builds can be very strong especially against Terrans which inve
 Make 6-10 Corruptors to Morph into broodlords
 @100% Greater Spire – +1 Flier Attack
 
-Generally when going broodlord you want to hit a timing with them before the Terran is ready. This timing is strongest when you can push a creep pathway enough to include queens in your push. Send your corruptors closer to your opponents base and find  a safe spot to morph into broodlords. Vipers are also powerful in this push as you can abduct vikings into your hydras / queens.
+Broodlord tips
 
 {{< img src="/images/feature2/mutalisk.png" title="Notice" caption="Mutalisk" alt="image alt" width="200" height="200px" position="center" >}}
 
