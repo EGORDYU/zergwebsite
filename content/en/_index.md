@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Zergtopia
+      - HiveMind
     subtitle:
-      - The best site for up to date guides
+      - Zerg Guides & Coaching
     titleColor: 
     titleShadow: true
     titleFontSize: 44
