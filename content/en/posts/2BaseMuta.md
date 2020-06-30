@@ -8,7 +8,7 @@ enableToc: true
 enableTocContent: false
 author: PandaBearMe
 authorEmoji: 🐼
-pinned: true
+pinned: false
 tags:
 - hugo
 series:

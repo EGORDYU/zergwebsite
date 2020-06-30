@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: true
 author: EGOR
 authorEmoji: 🤖
+pinned: true
 tags:
 - markdown
 - css
