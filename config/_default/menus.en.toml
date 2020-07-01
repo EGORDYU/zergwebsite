@@ -1,17 +1,6 @@
 [[main]]
   identifier = "about"
-  name = "About"
+  name = "About  "
   url = "about"
   weight = 1
 
-[[main]]
-  identifier = "authors"
-  name = "Authors"
-  url = "authors"
-  weight = 3
-
-[[main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "posts"
-  weight = 5

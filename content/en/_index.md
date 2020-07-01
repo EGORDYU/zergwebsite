@@ -6,7 +6,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - HiveMind
+      - HiveMind SC
     subtitle:
       - Zerg Guides & Coaching
     titleColor: 
