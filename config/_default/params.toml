@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "HiveMind"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -43,12 +43,11 @@ pubPaginate = 20
 
 # whoami
 myname = "Egor Dyuzhev"
-email = "egordyuzhev@gmail.com"
+email = "hivemindsc@gmail.com"
 whoami = "Sc2 Grandmaster"
 bioImageUrl = "/images/whoami/itsme.jpg"
 useGravatar = false
 location = "Oshawa, Ontario"
-organization = "Team"
 link = "sc2ladder.com"
 
 # sidebar
@@ -144,12 +143,9 @@ commento = false
 
 [socialOptions]
   email = "egordyuzhev@gmail.com"
-  phone = ""
-  facebook = "http://example.org/"
+  phone = ""  
   twitter = "https://twitter.com/ProbablyIsEGOR"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
   stack-overflow = ""
-  instagram = ""
   google-plus = ""
   youtube = "youtube.com"
   medium = ""
