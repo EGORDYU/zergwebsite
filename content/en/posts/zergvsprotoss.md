@@ -1,7 +1,7 @@
 ---
 title: "Zerg vs Protoss"
 date: 2020-01-25T06:40:51+09:00
-description: ZvP guides
+description: A branch of different build orders depending on what your protoss opponent is doing
 draft: false
 hideToc: false
 enableToc: true

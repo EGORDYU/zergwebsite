@@ -1,7 +1,7 @@
 ---
 title: Zerg vs Terran
 date: 2019-12-20T12:00:06+09:00
-description: ZvT Guides
+description: A general cookie cutter guide to different compositions againts Terran
 draft: false
 hideToc: false
 enableToc: true
