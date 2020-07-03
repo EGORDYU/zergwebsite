@@ -29,24 +29,41 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 Sentences here
 
-13 – Overlord
-16 – Hatchery (pull a drone from your mineral line @ ~200 minerals)
-18 – Gas (rally 17th drone from egg)
-17 – Spawning Pool (rally 18th drone from egg)
-Saturate Gas through rallying the next 2 drones and 1 from minerals
-20 – 2x Queens 4x Lings
-@60 Gas – Pull 2 drones off of gas | Send 1 of these drones to take your Third base
-27 – Third Hatchery
-@100 gas - metabolic boost (zergling speed)
-29 – Third Queen
-31 – Overlord
-@100% first inject – Make 2 drones from your main and rally into gas
-40 – Overlord
-42 – Fourth Queen (@Natural Base)
-@3:30 Send overlord into their main to scout
-44 – Fifth Queen (@Main Base) | Use this queen to place a tumor in your main base
-46 – Overlord
-@3rd Hatchery – 6th Queen
+{{< li at="13" >}} Overlord{{< / >}}
+
+{{< li at="16" >}} Hatchery (pull a drone from your mineral line @ ~200 minerals){{< / >}}
+
+{{< li at="18" >}} Gas (rally 17th drone from egg){{< / >}}
+
+{{< li at="17" >}} Spawning Pool (rally 18th drone from egg){{< / >}}
+
+{{< li >}} Saturate Gas through rallying the next 2 drones and 1 from minerals{{< / >}}
+
+{{< li at="20" >}} 2x Queens 4x Lings{{< / >}}
+
+{{< li at="@60 Gas" >}} Pull 2 drones off of gas | Send 1 of these drones to take your Third base{{< / >}}
+
+{{< li at="27" >}} Third Hatchery{{< / >}}
+
+{{< li at="@100 gas" >}} Metabolic boost (zergling speed){{< / >}}
+
+{{< li at="29" >}} Third Queen{{< / >}}
+
+{{< li at="31" >}} Overlord{{< / >}}
+
+{{< li at="@100% first inject" >}} Make 2 drones from your main and rally into gas{{< / >}}
+
+{{< li at="40" >}} Overlord{{< / >}}
+
+{{< li at="42" >}} Fourth Queen (@Natural Base){{< / >}}
+
+{{< li at="@3:30" >}} Send overlord into their main to scout{{< / >}}
+
+{{< li at="44" >}} Fifth Queen (@Main Base) | Use this queen to place a tumor in your main base{{< / >}}
+
+{{< li at="46" >}} Overlord{{< / >}}
+
+{{< li at="@3rd Hatchery" >}} 6th Queen{{< / >}}
 
 
 #### Reaction VS 2-1-1
