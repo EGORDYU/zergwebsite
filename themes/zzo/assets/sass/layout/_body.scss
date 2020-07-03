@@ -16,28 +16,6 @@ html {
   overflow-x: hidden;
 }
 
-ul {
-  margin-left: 0.25rem;
-  list-style-type: none;
-}
-
-li {
-  list-style-type: none;
-
-  padding-left: 2em; 
-  text-indent: -2em;
-
-  // text-indent: -0.4em;
-  // padding-left: 0.5em;
-  
-  &::before {
-    padding-right: 0.125rem;
-    font-size: 1rem;
-    display: inline-block;
-    content: "";
-  }
-}
-
 .round {
   border-radius: 50%;
 }
