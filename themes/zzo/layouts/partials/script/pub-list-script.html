@@ -42,14 +42,14 @@
         titleLink.appendChild(span);
       }
 
-      var metaDiv = document.createElement('div');
+      /*--var metaDiv = document.createElement('div');
       metaDiv.setAttribute('class', 'pub__metas');
       if (obj.publishDate) {
         var dateSpan = document.createElement('span');
         dateSpan.className = 'caption pub__meta';
         dateSpan.innerText = '📅 ' + obj.publishDate.slice(0, 10);
         metaDiv.appendChild(dateSpan);
-      }
+      } --*/
 
       if (obj.authors) {
         var authorsSpan = document.createElement('span');
@@ -144,12 +144,12 @@
           var metaDiv = document.createElement('div');
           metaDiv.setAttribute('class', 'pub__metas');
 
-          if (obj.item.publishDate) {
+          /*--if (obj.item.publishDate) {
             var dateSpan = document.createElement('span');
             dateSpan.className = 'caption pub__meta';
             dateSpan.innerText = '📅 ' + obj.item.publishDate.slice(0, 10);
             metaDiv.appendChild(dateSpan);
-          }
+          }--*/
 
           if (obj.item.authors) {
             var authorsSpan = document.createElement('span');

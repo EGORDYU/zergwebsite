@@ -1,33 +1,25 @@
 ---
 title: Zerg vs Terran
-date: 2019-12-20T12:00:06+09:00
 description: A general cookie cutter guide to different compositions againts Terran
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: true
-author: EGOR
+author:
 authorEmoji: 🤖
 pinned: true
 tags:
-- markdown
-- css
-- html
-- themes
 categories:
-- themes
-- syntax
 series:
-- Themes Guide
 image: images/feature2/ultralisk.png
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+#### If you're new to Zerg this page gives a detailed summary of each part of the game and how to react to certain things the terran does
 <!--more-->
 
 ## Standard opener
 
-Sentences here
+This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third down before the reaper arrives.
 
 13 – Overlord
 16 – Hatchery (pull a drone from your mineral line @ ~200 minerals)
@@ -48,31 +40,13 @@ Saturate Gas through rallying the next 2 drones and 1 from minerals
 46 – Overlord
 @3rd Hatchery – 6th Queen
 
-
-#### Reaction VS 2-1-1
-
-Reaction VS 2-1-1
-Sentences here
-
-@3:40 – Evolution Chamber
-@100% Evolution Chamber (4:05) – +1 Carapace
-@4:15 – 1x Extractor
-Benchmark: Around this time you should be able to reach 50 drones (some will be in production)
-@64 – (6 queens 4 lings 50 drones) – 30 Zerglings + 2 Queens (main, natural use these queens for injecting)
-@~4:40 – If anything goes wrong in the early game (supply block lost overlord etc) this is when you want to start making the zerglings to defend the pressure. Otherwise, hit the 50 drone target first.
-@30 Zerglings – Once you have started producing all the lings you need you can go back to drones
-@5:00 – Lair + Baneling Nest
-@~5:00 defend the 16 stim marine drop with 6 queens + 30-34 Zerglings
-After defending start 9th and 10th Queens (you will now have 7 defending Queens and 3 injecting Queens make sure that after you have defending you set one queen for injecting the third as the 7th and 8th queens you make inject your main and natural)
-@5:30 – Second Evolution Chamber + 2 Extractors
-
 #### 1-1-1 Reaction
 
 What to scout for here
 
 
 VS Bio 1-1-1
-Note: If you want to play Ling Bane Hydra Swarmhost against mech, follow this VS Bio 1-1-1 mid-game.
+Note: If you want to play Ravager Ling Bane Swarmhost against mech, follow this VS Bio 1-1-1 mid-game.
 
 @35 Drones – Go up to 12-16 Zerglings to defend hellions
 @100% Queens – 3x Queens (if not fast 3cc)
