@@ -23,7 +23,7 @@ This is whats commonly known as the QLASH opening, since zergs on the team QLASH
 
 {{< at at="13" >}} Overlord{{< / >}}
 
-{{< at at="16" >}} Hatchery (pull a drone from your mineral line @ ~200 minerals){{< / >}}
+{{< at at="16 Hatchery" >}} (pull a drone from your mineral line @ ~200 minerals){{< / >}}
 
 {{< at at="18" >}} Gas (rally 17th drone from egg){{< / >}}
 
