@@ -17,28 +17,45 @@ image: images/feature2/ultralisk.png
 #### If you're new to Zerg this page gives a detailed summary of each part of the game and how to react to certain things the terran does
 <!--more-->
 
-## Standard opener
+## Standard Opener
 
 This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third down before the reaper arrives.
 
-13 – Overlord
-16 – Hatchery (pull a drone from your mineral line @ ~200 minerals)
-18 – Gas (rally 17th drone from egg)
-17 – Spawning Pool (rally 18th drone from egg)
-Saturate Gas through rallying the next 2 drones and 1 from minerals
-20 – 2x Queens 4x Lings
-@60 Gas – Pull 2 drones off of gas | Send 1 of these drones to take your Third base
-27 – Third Hatchery
-@100 gas - metabolic boost (zergling speed)
-29 – Third Queen
-31 – Overlord
-@100% first inject – Make 2 drones from your main and rally into gas
-40 – Overlord
-42 – Fourth Queen (@Natural Base)
-@3:30 Send overlord into their main to scout
-44 – Fifth Queen (@Main Base) | Use this queen to place a tumor in your main base
-46 – Overlord
-@3rd Hatchery – 6th Queen
+{{< at at="13" >}} Overlord{{< / >}}
+
+{{< at at="16" >}} Hatchery (pull a drone from your mineral line @ ~200 minerals){{< / >}}
+
+{{< at at="18" >}} Gas (rally 17th drone from egg){{< / >}}
+
+{{< at at="17" >}} Spawning Pool (rally 18th drone from egg){{< / >}}
+
+{{< at >}} Saturate Gas through rallying the next 2 drones and 1 from minerals{{< / >}}
+
+{{< at at="20" >}} 2x Queens 4x Lings{{< / >}}
+
+{{< at at="@60 Gas" >}} Pull 2 drones off of gas | Send 1 of these drones to take your Third base{{< / >}}
+
+{{< at at="27" >}} Third Hatchery{{< / >}}
+
+{{< at at="@100 gas" >}} Metabolic boost (zergling speed){{< / >}}
+
+{{< at at="29" >}} Third Queen{{< / >}}
+
+{{< at at="31" >}} Overlord{{< / >}}
+
+{{< at at="@100% first inject" >}} Make 2 drones from your main and rally into gas{{< / >}}
+
+{{< at at="40" >}} Overlord{{< / >}}
+
+{{< at at="42" >}} Fourth Queen (@Natural Base){{< / >}}
+
+{{< at at="@3:30" >}} Send overlord into their main to scout{{< / >}}
+
+{{< at at="44" >}} Fifth Queen (@Main Base) | Use this queen to place a tumor in your main base{{< / >}}
+
+{{< at at="46" >}} Overlord{{< / >}}
+
+{{< at at="@3rd Hatchery" >}} 6th Queen{{< / >}}
 
 #### 1-1-1 Reaction
 

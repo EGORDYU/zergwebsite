@@ -15,3 +15,16 @@
 html {
   overflow-x: hidden;
 }
+
+.round {
+  border-radius: 50%;
+}
+
+.litem {
+  @include themify($themes) {
+    color: themed('body-color');
+    padding-left: 3px; 
+    border-left: 4px themed('hr-color') solid;
+    
+  }
+}
