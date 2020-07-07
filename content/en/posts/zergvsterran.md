@@ -71,9 +71,7 @@ Note: If you want to play Ravager Ling Bane Swarmhost against mech, follow this 
 
 {{< at at="@4:30 " >}} 2x Evolution Chamber{{< / >}}
 
-{{< at at="@4:30 VS Banshee " >}} 1 Spore in each base{{< / >}}
-
-{{< at at="@4:30 VS Liberator " >}} 1 Spore in strong liberator positions{{< / >}}
+{{< at at="@4:30" >}} 1 Spore in each base{{< / >}}
 
 {{< at at="@100% Evolution Chambers " >}}+1 Melee and +1 Carapace {{< / >}}
 
@@ -98,75 +96,84 @@ vs 2-2 push here
 VS Mech 1-1-1
 Note: Follow this is playing roach swarmhost or roach hydra viper.
 
-@35 Drones – Go up to 12-16 Zerglings to defend hellions
-@100% Queens – 3x Queens (if not fast 3cc)
-@4:30 – 2x Evolution Chamber
-@4:30 VS Banshee 1 Spore in each base (tech lab starport + researching tech lab)
-@4:30 VS Liberator 1 Spore in strong liberator positions (map dependent)
-@100% Evolution Chambers – +1 Range +1 Carapace
-@5:00 – Fourth Base + 2x Extractors + Roach Warren
-@100 Gas – Lair + 3x Extractors
-@100% Lair – Glial Reconstitution (Roach Speed)
-Benchmark: 6:00 66 drones, fourth base, lair, Roach Warren and +1/+1 all on the way or completed
+{{< at at="@35 Drones " >}} Go up to 12-16 Zerglings to defend hellions {{< / >}}
+
+{{< at at="@4:15 " >}} Lair + Bane Nest + 1 gas{{< / >}}
+
+{{< at at="@4:30" >}} 1 Spore in each base{{< / >}}
+
+{{< at at="After Lair" >}}Start bane speed ASAP and 5th and 6th gas if you're going roach ravager ling bane{{< / >}}
+
+{{< at at="After Lair" >}}Overseer scout, if they are going battlecruiser, make a spire for corruptors ASAP{{< / >}}
+
+{{< at at="@6:00 " >}}Forth base + macro hatch{{< / >}}
+
+{{< at at="@6:00 " >}} Fourth Base + 2x Extractors{{< / >}}
+
+
 
 What to scout after
 
 ## Mid Game VS Bio
 
 Checkpoint: 
-
+Beat their 1-1 push or defend their double marine drop
 
 
 #### Hydralisk
-Generally 5 gases supports a solid ling bane hydra army, which means you do not need to take additional gases until you want to start teching. You can take gases slightly earlier or later depending on the game, your economy and how many banelings you have needed to make throughout the game.
+Generally 5 gases supports a solid ling bane hydra army,you do not need additional gasses till hive.
 
-@100% Hydralisk Den / ~7:00 – Muscular Augments (Hydralisk Speed)
-@100% Muscular Augments / ~8:10 – Grooved Spines (Hydralisk Range)
+{{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
 
 You want to make ~20 Hydras maximum if going the ling bane hydra ultra path. This is primarily due to ultralisks getting stuck on hydras, but also once you get past 20 hydras it is hard to get concaves large enough for them all to be attacking. When engaging with ling bane hydra you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
 
 #### Mutalisk
-Mutalisk are more gas intensive than hydralisk which means you need to take your gases faster. If you are going mutalisk, you should already have 6 gases.
+If you are going mutalisk, you should be going for 6 gasses as opposed to the 5 gasses hydra ling bane takes.
 
-@100% 4th Hatchery + ~70+ drones – 2x Extractors (total 8 gases)
-@100% Spire – +1 Air Attacks
-@100% Spire – ~14 Mutalisk | enough Mutalisk for harass, map control and to shut down drops
+{{< at at="@100% 4th hatchery " >}} Go up to 8 gasses and around 80 drones{{< / >}}
+
+{{< at at="@100% Spire" >}} +1 Air Attack{{< / >}}
+
+{{< at at="@100% Spire " >}}Get as many mutas as you are comfortable with (minimum 12){{< / >}}
+
 
 ## Late Game vs Bio
 
-Checkpoint: You can start this late game vs bio section as soon as it is safe to drone up to 80. Generally you will have started producing your mid game tech units and are safe to drone to 80 once you have defended whatever type of pressure the Terran is choosing to apply (or right away if they are playing super defensive which is rare with bio). Generally this is whatever followup after 2-1-1 they do or defending a bio (+tank/mine) push after the opening hellion pressure if they opened with 1-1-1.
+Checkpoint: At this point you are either in a commanding position or have just held the 2-2 push, so from here you'll want to move into the T3 choices that zerg has to offer.
 
 Add the ultralisk or broodlord build to the below for late game vs bio depending on which late game tech you want to play.
 
-Drone to ~80 + take a 5th base
-@+1/+2|+2/+2 – +2 melee (if 2-1-1) and +1 Range if you are playing Hydralisk into Broodlord
-@8:00-8:30 – Infestation Pit + 1 Extractor (if hydralisk)| As you have the gas for it (depends on the game, could be later than 8:30)
-@100% Infestation Pit – Hive + 2 Extractors (if hydralisk 8 total now)
-@100% Hive – ~3-4 Vipers if they are Bio Tank
-@300 Gas – +3 Carapace
-@200 Gas – Adrenal Glands
-@200 Gas – +3 Melee
+{{< at at="@100% 1-1 upgrades get 2-2 " >}} This should be around 7:30 if you got your 1-1 upgrades on time{{< / >}}
+{{< at at="@7:30-8:00 Infestation Pit " >}} Get the appropriate amount of gasses (7 if hydra ling bane viper, 8 if with ultralisk){{< / >}}
+{{< at at="@100% Hive" >}}Get viperrs if they have tanks{{< / >}}
+{{< at at="@100% Hive " >}}Get T3 upgrades (+3/+3 and adrenal){{< / >}}
+
 
 #### Ultralisk
-Ultra advice
+When going ultralisk, you want maximum around 3-4 just for tanking, since they are very clunky and rarely get more value the more there are.
 
-@100% Hive – Ultralisk Cavern
-@100% Ultralisk Cavern – Chitinous Plating + Ultra Production Right away
+{{< at at="@100% Hive " >}}Ultralisk Cavern{{< / >}}
+{{< at at="@100% Ultralisk Cavern " >}}Ultra armor then speed{{< / >}}
 
-Ultralisk are powerful late game units, so make sure you prioritize making 3+ Ultras once you have the tech available.
-
+Ultralisk tips
+<ul> -You should always have your ultralisk in front so they dont get stuck behind the rest of your army </ul>
+<ul> -Using ultralisk in counterattacks againts planetary fortresses is very useful as they take almost no damage from the cannon and can soak a lot for the lings/banes </ul>
+<ul> -Remember not to get too many ultralisk as they will progressively get worse the more you make. </ul>
+<ul> -Once the terran gets ghosts you will need to get infestors so they dont kill your ultralisk for free. </ul>
 {{< img src="/images/feature2/ultralisk.png" title="Notice" caption="Ultralisk" alt="image alt" width="300px" height="300px" position="center" >}}
 
 #### Broodlord Timing
-Faster Broodlord builds can be very strong especially against Terrans which invest more heavily into siege tanks. Building more than 20 hydralisks can be good when going broodlords since there is nothing on the ground for your hydralisks to get stuck on (or to get stuck on your hydralisks). Additionally extra queen production is good as transfuse is a crucial ability when broodlords are a main part of your army.
-
-@100% Infestation Pit – Spire right after starting hive | If you don’t already have a spire from going Mutalisk
-@100% Spire 100% Hive – Greater Spire
-Make 6-10 Corruptors to Morph into broodlords
-@100% Greater Spire – +1 Flier Attack
+I wouldn't reccomend broodlords againts terran because they really stunt your movement potential, but there are some strong broodlord timings you can do if the terran isn't prepared if you hit it correctly, this part just shows how to efficiently get broodlords out.
+{{< at at="@100% Infestation Pit " >}}Spire & Hive at the same time{{< / >}}
+{{< at at="@100% Hive " >}}Greater Spire{{< / >}}
+{{< at at="@50% Greater Spire " >}}Make corruptors{{< / >}}
+{{< at at="@100% Greater spire " >}}Get +1 Flier attack{{< / >}}
 
 Broodlord tips
+<ul> -You always want to have a buffer with your broodlords to pretend the terran army from just running onto them. </ul>
+<ul> -If the terran hasn't taken any defining engagements in the last little while you probably dont want to attack with the broodlords as a potentially game throwing fight could be taken, instead get infestors or vipers and play slower. </ul>
 
-{{< img src="/images/feature2/mutalisk.png" title="Notice" caption="Mutalisk" alt="image alt" width="200" height="200px" position="center" >}}
+
+{{< img src="/images/feature2/mutalisk.png" title="=" caption="Mutalisk" alt="image alt" width="200" height="200px" position="center" >}}
 
 
