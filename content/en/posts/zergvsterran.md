@@ -4,7 +4,7 @@ description: A general cookie cutter guide to different compositions againts Ter
 draft: false
 hideToc: false
 enableToc: true
-enableTocContent: true
+enableTocContent: false
 author:
 authorEmoji: 🤖
 pinned: true
@@ -14,20 +14,41 @@ series:
 image: images/feature2/ultralisk.png
 ---
 
-#### If you're new to Zerg this page gives a detailed summary of each part of the game and how to react to certain things the terran does
-<!--more-->
+{{< alert theme="info" >}} 
+New to Zerg? Here's a detailed guide how to beat Terran!
+{{< /alert >}}
+
+{{< boxmd >}}
+FIXME: here you need to have a para or two of introduction. 
+
+* That there is a standard way to play against Terran, which anyone new should learn first
+* That when Terran reacts to it, there are counter-reactions
+* What are parameters to watch to decide when to move to the next development step
+* But lets start with the standard opening
+{{< / >}}
 
 ## Standard Opener
 
 This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third down before the reaper arrives.
 
-{{< at at="13 Overlord" >}} {{< / >}}
+{{< boxmd >}}
+This is gibberish.
 
-{{< at at="16 Hatchery" >}} (pull a drone from your mineral line @ ~200 minerals){{< / >}}
+* What is QLASH?
+* What is meta?
+* Third down what?
+* Why you need to do that (what?) before the reaper arrives?
+
+I.e. outline the overall strategy plan here, but rememeber that the reader is TOTAL NEWBEE! So: explain, explain and explain.
+{{< / >}}
+
+{{< at at="13 Overlord" >}} {{< boxmd >}}FIXME: Don't leave empty steps. Provide some guidance, even if as simple as "Overload is required to monitor your shitlings. If you create it later, your development is delayed so and so.". The newby may not know that.{{< / >}}{{< / >}}
+
+{{< at at="16 Hatchery" >}} {{< boxmd >}}FIXME: Why hatchery? Provide a brief explanation. Otherwise it is not a guide, but a script to follow mindlessly. Nobody likes to feel like a stupid machine.{{< / >}}Pull a drone from your mineral line @ ~200 minerals.{{< / >}}
 
 {{< at at="18 Gas" >}} (rally 17th drone from egg){{< / >}}
 
-{{< at at="17  Spawning Pool " >}} (rally 18th drone from egg){{< / >}}
+{{< at at="17 Spawning Pool " >}} (rally 18th drone from egg){{< / >}}
 
 {{< at >}} Saturate Gas through rallying the next 2 drones and 1 from minerals{{< / >}}
 

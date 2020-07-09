@@ -5,7 +5,7 @@ description: A branch of different build orders depending on what your protoss o
 draft: false
 hideToc: false
 enableToc: true
-enableTocContent: true
+enableTocContent: false
 tocPosition: inner
 tags:
 - shortcode

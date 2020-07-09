@@ -1,4 +1,4 @@
-<div class="alert{{- " " -}}{{- if .IsNamedParams -}}
+<div style="font-size: 1.2em;" class="alert{{- " " -}}{{- if .IsNamedParams -}}
 {{- with .Get "theme" -}}alert-{{.}}{{- else -}}alert-info{{- end -}}
 {{- else -}}
 	{{- with .Get 0 -}}alert-{{.}}{{- else -}}alert-info{{- end -}}
