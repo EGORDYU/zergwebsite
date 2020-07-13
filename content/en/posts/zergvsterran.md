@@ -29,22 +29,11 @@ FIXME: here you need to have a para or two of introduction.
 
 ## Standard Opener
 
-This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third down before the reaper arrives.
+This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third base down before the reaper arrives, so it won't get blocked.
 
-{{< boxmd >}}
-This is gibberish.
+{{< at at="13 Overlord" >}} Send this overlord to your natural to scout for their scouting SCV or any potential bunker rushes.{{< / >}}
 
-* What is QLASH?
-* What is meta?
-* Third down what?
-* Why you need to do that (what?) before the reaper arrives?
-
-I.e. outline the overall strategy plan here, but rememeber that the reader is TOTAL NEWBEE! So: explain, explain and explain.
-{{< / >}}
-
-{{< at at="13 Overlord" >}} {{< boxmd >}}FIXME: Don't leave empty steps. Provide some guidance, even if as simple as "Overload is required to monitor your shitlings. If you create it later, your development is delayed so and so.". The newby may not know that.{{< / >}}{{< / >}}
-
-{{< at at="16 Hatchery" >}} {{< boxmd >}}FIXME: Why hatchery? Provide a brief explanation. Otherwise it is not a guide, but a script to follow mindlessly. Nobody likes to feel like a stupid machine.{{< / >}}Pull a drone from your mineral line @ ~200 minerals.{{< / >}}
+{{< at at="16 Hatchery" >}} Pull a drone from your mineral line @ ~200 minerals. (A hatchery first is safe vs virtually any build) {{< / >}}
 
 {{< at at="18 Gas" >}} (rally 17th drone from egg){{< / >}}
 
@@ -146,6 +135,7 @@ Generally 5 gases supports a solid ling bane hydra army,you do not need addition
 
 {{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
 
+<!-- change -->
 You want to make ~20 Hydras maximum if going the ling bane hydra ultra path. This is primarily due to ultralisks getting stuck on hydras, but also once you get past 20 hydras it is hard to get concaves large enough for them all to be attacking. When engaging with ling bane hydra you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
 
 #### Mutalisk
