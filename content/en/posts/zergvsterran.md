@@ -18,14 +18,10 @@ image: images/feature2/ultralisk.png
 New to Zerg? Here's a detailed guide how to beat Terran!
 {{< /alert >}}
 
-{{< boxmd >}}
-FIXME: here you need to have a para or two of introduction. 
 
-* That there is a standard way to play against Terran, which anyone new should learn first
-* That when Terran reacts to it, there are counter-reactions
-* What are parameters to watch to decide when to move to the next development step
-* But lets start with the standard opening
-{{< / >}}
+
+## Introduction
+Zerg vs Terran (ZvT) in my opinion is one of the simplist if not the simplist matchup in the game. The reason for that is there is very little reactive play that you will have to do as the zerg in a standard game versus terran.  You can do the same build order almost every single game and get away with it because of the interaction between early defensive zerg units (mostly queens and lings/banes) and the terrans early aggressive units(reaper, hellion and whatever air units they make). This guide outlines what I think is the most dependable and consistant way to play versus terran.
 
 ## Standard Opener
 
@@ -69,60 +65,60 @@ This is whats commonly known as the QLASH opening, since zergs on the team QLASH
 
 #### 1-1-1 Reaction
 
-What to scout for here
+Scouting tells: 
+Marine after reaper
+Hellions
 
 
-VS Bio 1-1-1
-Note: If you want to play Ravager Ling Bane Swarmhost against mech, follow this VS Bio 1-1-1 mid-game.
 
 {{< at at="@35 Drones " >}} Go up to 12-16 Zerglings to defend hellions {{< / >}}
 
-{{< at at=" @100% Queens" >}} – 3x Queens (if not fast 3cc){{< / >}}
-
-{{< at at="@4:30 " >}} 2x Evolution Chamber{{< / >}}
-
 {{< at at="@4:30" >}} 1 Spore in each base{{< / >}}
 
-{{< at at="@100% Evolution Chambers " >}}+1 Melee and +1 Carapace {{< / >}}
+{{< at at="@4:15 " >}}1 more gas, baneling nest, lair{{< / >}}
 
-{{< at at="@5:00 " >}} Fourth Base + 2x Extractors{{< / >}}
+benchmark:
+ try hitting 50 drones by 4:30
 
-{{< at at="@100 Gas " >}}Lair {{< / >}}
+{{< at at="@5:00 " >}} 2 Evolution Chambers, 2 more Extractors{{< / >}}
 
-{{< at at="@50 Gas after lair " >}} Baneling Nest + 2 Extractors (+6th Extractor if going spire){{< / >}}
+{{< at at="@5:00 - 6:00 " >}}If they have made more than 8 hellions it likely means its mech, a roach warren should be dropped if you suspect mech{{< / >}}
 
-{{< at at="@100% Lair " >}}Baneling Speed {{< / >}}
-
-{{< at at="@300 Minerals " >}}Macro Hatchery {{< / >}}
-
-{{< at at="Benchmark" >}} 6:00 66 drones, fourth base, lair, bane nest and +1/+1 on the way or completed{{< / >}}
+{{< at at="@100% Lair" >}}Overseer scout to confirm bio or mech{{< / >}}
 
 
+{{< at at="@100% Lair" >}}Bane speed, Hydra Den + 1 Extractor if going hydra ling bane| spire + 2 Extractors if going muta ling bane {{< / >}}
 
-vs 2-2 push here
+{{< at at="@5:30-6:00 " >}}Forth base + Macro hatchery (extra hatchery for larva){{< / >}}
 
-## VS Mech 1-1-1
+Benchmark:
+ have 66 drones around 5:30-6:00 depending how your early game went
 
-VS Mech 1-1-1
-Note: Follow this is playing roach swarmhost or roach hydra viper.
+#### 2-1-1 Reaction
 
-{{< at at="@35 Drones " >}} Go up to 12-16 Zerglings to defend hellions {{< / >}}
+Scouting tells:
+Reactor right after reaper
+No hellions
+2nd barracks
 
-{{< at at="@4:15 " >}} Lair + Bane Nest + 1 gas{{< / >}}
+{{< at at="@3:45 " >}}Evolution Chamber{{< / >}}
 
-{{< at at="@4:30" >}} 1 Spore in each base{{< / >}}
+{{< at at="@100% Evolution Chamber" >}}+1 Carapace{{< / >}}
 
-{{< at at="After Lair" >}}Start bane speed ASAP and 5th and 6th gas if you're going roach ravager ling bane{{< / >}}
+{{< at at="@4:15 " >}}1 more Extractor{{< / >}}
 
-{{< at at="After Lair" >}}Overseer scout, if they are going battlecruiser, make a spire for corruptors ASAP{{< / >}}
+benchmark:
+ should be able to hit 50 drones here 
 
-{{< at at="@6:00 " >}}Forth base + macro hatch{{< / >}}
+{{< at at="@after droning " >}}Make 30 zerglings and 2 more queens(total 6 creep queens){{< / >}}
 
-{{< at at="@6:00 " >}} Fourth Base + 2x Extractors{{< / >}}
+{{< at at="@5:00 " >}}Lair + Bane Nest{{< / >}}
 
+Two medivac drop with 16 marines: defend with your 6 creep queens and ~30 lings
 
+After defending add on 2 more Extractors and second Evolution Chamber for +1 attack
 
-What to scout after
+Careful of the followup 32 marine drop/push with +2, keep lings outside their base to scout for any move outs.
 
 ## Mid Game VS Bio
 
@@ -131,7 +127,7 @@ Beat their 1-1 push or defend their double marine drop
 
 
 #### Hydralisk
-Generally 5 gases supports a solid ling bane hydra army,you do not need additional gasses till hive.
+Generally 5 gases supports a solid ling bane hydra army,you do not need additional gasses till hive when you'll get 7 with viper tech and 8 with ultralisk.
 
 {{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
 
