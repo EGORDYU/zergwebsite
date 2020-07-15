@@ -44,7 +44,7 @@ pubPaginate = 20
 # whoami
 myname = "Egor Dyuzhev"
 email = "hivemindsc@gmail.com"
-twitch = "twitch.tv/egordyu"
+twitch = "https://twitch.tv/egordyu"
 whoami = "Sc2 Grandmaster"
 bioImageUrl = "/images/whoami/itsme.jpg"
 useGravatar = false
@@ -146,10 +146,10 @@ commento = false
   email = "hivemindsc@gmail.com"
   phone = ""  
   twitter = "https://twitter.com/ProbablyIsEGOR"
-  twitch = "twitch.tv/egordyu"
+  twitch = "https://twitch.tv/egordyu"
   stack-overflow = ""
   google-plus = ""
-  youtube = "youtube.com"
+  youtube = "https://www.youtube.com/channel/UCuvG1IUnAlmWiagQ8Y33bwA/featured?view_as=subscriber"
   medium = ""
   tumblr = ""
   linkedin = ""
