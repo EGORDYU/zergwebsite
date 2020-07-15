@@ -21,7 +21,7 @@ New to Zerg? Here's a detailed guide how to beat Terran!
 
 
 ## Introduction
-Zerg vs Terran (ZvT) in my opinion is one of the simplist if not the simplist matchup in the game. The reason for that is there is very little reactive play that you will have to do as the zerg in a standard game versus terran.  You can do the same build order almost every single game and get away with it because of the interaction between early defensive zerg units (mostly queens and lings/banes) and the terrans early aggressive units(reaper, hellion and whatever air units they make). This guide outlines what I think is the most dependable and consistant way to play versus terran.
+Zerg vs Terran (ZvT) in my opinion is one of the simplist if not the simplest matchup in the game. The reason for that is there is very little reactive play that you will have to do as the zerg in a standard game versus terran.  You can do the same build order almost every single game and get away with it because of the interaction between early defensive zerg units (mostly queens and lings/banes) and the terrans early aggressive units(reaper, hellion and whatever air units they make). This guide outlines what I think is the most dependable and consistant way to play versus terran.
 
 ## Standard Opener
 
