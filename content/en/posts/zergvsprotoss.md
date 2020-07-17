@@ -16,7 +16,6 @@ categories:
 image: images/feature2/zergvprotoss.png
 ---
 
-## Markdownify box
 
 #### If you're new to Zerg this page gives a detailed summary of each part of the game and how to react to certain things the protoss does
 <!--more-->
