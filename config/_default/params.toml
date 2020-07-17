@@ -43,13 +43,12 @@ pubPaginate = 20
 
 # whoami
 myname = "Egor Dyuzhev"
-email = "hivemindsc@gmail.com"
+email = "mailto:hivemindsc@gmail.com"
 twitch = "https://twitch.tv/egordyu"
 whoami = "Sc2 Grandmaster"
 bioImageUrl = "/images/whoami/itsme.jpg"
 useGravatar = false
 location = "Oshawa, Ontario"
-link = "sc2ladder.com"
 
 # sidebar
 enableBio = true
@@ -143,7 +142,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "sendto:hivemindsc@gmail.com"
+  email = "mailto:hivemindsc@gmail.com"
   phone = ""  
   twitter = "https://twitter.com/ProbablyIsEGOR"
   twitch = "https://twitch.tv/egordyu"
