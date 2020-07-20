@@ -21,7 +21,13 @@ New to Zerg? Here's a detailed guide how to beat Terran!
 
 
 ## Introduction
-Zerg vs Terran (ZvT) in my opinion is one of the simplist if not the simplest matchup in the game. The reason for that is there is very little reactive play that you will have to do as the zerg in a standard game versus terran.  You can do the same build order almost every single game and get away with it because of the interaction between early defensive zerg units (mostly queens and lings/banes) and the terrans early aggressive units(reaper, hellion and whatever air units they make). This guide outlines what I think is the most dependable and consistant way to play versus terran.
+Zerg vs Terran (ZvT) is the simplest matchup in the game. 
+
+You will have to do very little reactive play as the Zerg in a standard game versus Terran.
+
+You can do the same build order every game and get away with it because of the simple interactions between early defensive Zerg units and the Terrans' early aggressive units. 
+
+This guide outlines what is the most dependable and consistent way to play versus Terran.
 
 ## Standard Opener
 
@@ -127,12 +133,12 @@ Beat their 1-1 push or defend their double marine drop
 
 
 #### Hydralisk
-Generally 5 gases supports a solid ling bane hydra army,you do not need additional gasses till hive when you'll get 7 with viper tech and 8 with ultralisk.
+Generally, five gases will support a solid ling bane hydra army. You do not need additional gasses till hive when you get 7 with viper tech and 8 with ultralisk.
 
 {{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
 
 <!-- change -->
-You want to make ~20 Hydras maximum if going the ling bane hydra ultra path. This is primarily due to ultralisks getting stuck on hydras, but also once you get past 20 hydras it is hard to get concaves large enough for them all to be attacking. When engaging with ling bane hydra you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
+You want to make around 20 Hydras maximum if going the ling bane hydra ultra path to avoid body blocking the melee units.  When engaging with ling bane hydra, you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
 
 #### Mutalisk
 If you are going mutalisk, you should be going for 6 gasses as opposed to the 5 gasses hydra ling bane takes.
