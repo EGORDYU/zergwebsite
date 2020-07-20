@@ -173,7 +173,7 @@ Ultralisk tips
 <ul> -Using ultralisk in counterattacks againts planetary fortresses is very useful as they take almost no damage from the cannon and can soak a lot for the lings/banes </ul>
 <ul> -Remember not to get too many ultralisk as they will progressively get worse the more you make. </ul>
 <ul> -Once the terran gets ghosts you will need to get infestors so they dont kill your ultralisk for free. </ul>
-{{< img src="/images/feature2/ultralisk.png" title="Notice" caption="Ultralisk" alt="image alt" width="300px" height="300px" position="center" >}}
+{{< img src="/images/feature2/ultralisk.png" title="" caption="" alt="image alt" width="300px" height="300px" position="center" >}}
 
 #### Broodlord Timing
 I wouldn't reccomend broodlords againts terran because they really stunt your movement potential, but there are some strong broodlord timings you can do if the terran isn't prepared if you hit it correctly, this part just shows how to efficiently get broodlords out.
@@ -187,6 +187,6 @@ Broodlord tips
 <ul> -If the terran hasn't taken any defining engagements in the last little while you probably dont want to attack with the broodlords as a potentially game throwing fight could be taken, instead get infestors or vipers and play slower. </ul>
 
 
-{{< img src="/images/feature2/mutalisk.png" title="=" caption="Mutalisk" alt="image alt" width="200" height="200px" position="center" >}}
+{{< img src="/images/feature2/mutalisk.png" title="" caption="" alt="image alt" width="200" height="200px" position="center" >}}
 
 
