@@ -23,8 +23,6 @@ New to Zerg? Here's a detailed guide how to beat Terran!
 ## Introduction
 Zerg vs Terran (ZvT) is the simplest matchup in the game. 
 
-You will have to do very little reactive play as the Zerg in a standard game versus Terran.
-
 You can do the same build order every game and get away with it because of the simple interactions between early defensive Zerg units and the Terrans' early aggressive units. 
 
 This guide outlines what is the most dependable and consistent way to play versus Terran.
