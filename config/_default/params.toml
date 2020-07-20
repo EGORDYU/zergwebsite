@@ -43,7 +43,7 @@ pubPaginate = 20
 
 # whoami
 myname = "Egor Dyuzhev"
-email = "mailto:hivemindsc@gmail.com"
+email = "hivemindsc@gmail.com"
 twitch = "https://twitch.tv/egordyu"
 whoami = "Sc2 Grandmaster"
 bioImageUrl = "/images/whoami/itsme.jpg"
