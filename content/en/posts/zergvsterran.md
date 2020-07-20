@@ -77,9 +77,9 @@ Hellions
 
 {{< at at="@35 Drones " >}} Go up to 12-16 Zerglings to defend hellions {{< / >}}
 
-{{< at at="@4:30" >}} 1 Spore in each base{{< / >}}
+{{< at at="@4:15" >}} 1 more gas, baneling nest, lair{{< / >}}
 
-{{< at at="@4:15 " >}}1 more gas, baneling nest, lair{{< / >}}
+{{< at at="@4:30 " >}}1 spore in each base{{< / >}}
 
 benchmark:
  try hitting 50 drones by 4:30
