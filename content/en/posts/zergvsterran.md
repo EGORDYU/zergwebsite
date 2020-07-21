@@ -104,6 +104,7 @@ Scouting tells:
 Reactor right after reaper
 No hellions
 2nd barracks
+substantial amount of marines (~10 ish)
 
 {{< at at="@3:45 " >}}Evolution Chamber{{< / >}}
 
@@ -122,7 +123,7 @@ Two medivac drop with 16 marines: defend with your 6 creep queens and ~30 lings
 
 After defending add on 2 more Extractors and second Evolution Chamber for +1 attack
 
-Careful of the followup 32 marine drop/push with +2, keep lings outside their base to scout for any move outs.
+Careful of the followup 32 marine drop/push with +1, keep lings outside their base to scout for any move outs.
 
 ## Mid Game VS Bio
 
@@ -136,17 +137,16 @@ Generally, five gases will support a solid ling bane hydra army. You do not need
 {{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
 
 <!-- change -->
-You want to make around 20 Hydras maximum if going the ling bane hydra ultra path to avoid body blocking the melee units.  When engaging with ling bane hydra, you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
+You want to make around 16-- Hydras maximum if going the ling bane hydra ultra path to avoid body blocking the melee units.  When engaging with ling bane hydra, you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
 
 #### Mutalisk
 If you are going mutalisk, you should be going for 6 gasses as opposed to the 5 gasses hydra ling bane takes.
 
-{{< at at="@100% 4th hatchery " >}} Go up to 8 gasses and around 80 drones{{< / >}}
+{{< at at="@100% 4th hatchery " >}} Go up to 7 gasses and around 80 drones{{< / >}}
 
 {{< at at="@100% Spire" >}} +1 Air Attack{{< / >}}
 
-{{< at at="@100% Spire " >}}Get as many mutas as you are comfortable with (minimum 12){{< / >}}
-
+{{< at at="@100% Spire " >}}Get as many mutas as you can while still being able to afford your upgrades.{{< / >}}
 
 ## Late Game vs Bio
 
@@ -158,7 +158,6 @@ Add the ultralisk or broodlord build to the below for late game vs bio depending
 {{< at at="@7:30-8:00 Infestation Pit " >}} Get the appropriate amount of gasses (7 if hydra ling bane viper, 8 if with ultralisk){{< / >}}
 {{< at at="@100% Hive" >}}Get viperrs if they have tanks{{< / >}}
 {{< at at="@100% Hive " >}}Get T3 upgrades (+3/+3 and adrenal){{< / >}}
-
 
 #### Ultralisk
 When going ultralisk, you want maximum around 3-4 just for tanking, since they are very clunky and rarely get more value the more there are.
@@ -172,7 +171,7 @@ Ultralisk tips
 <ul> -Remember not to get too many ultralisk as they will progressively get worse the more you make. </ul>
 <ul> -Once the terran gets ghosts you will need to get infestors so they dont kill your ultralisk for free. </ul>
 
-#### Broodlord Timing
+<!--#### Broodlord Timing
 I wouldn't reccomend broodlords againts terran because they really stunt your movement potential, but there are some strong broodlord timings you can do if the terran isn't prepared if you hit it correctly, this part just shows how to efficiently get broodlords out.
 {{< at at="@100% Infestation Pit " >}}Spire & Hive at the same time{{< / >}}
 {{< at at="@100% Hive " >}}Greater Spire{{< / >}}
@@ -181,7 +180,7 @@ I wouldn't reccomend broodlords againts terran because they really stunt your mo
 
 Broodlord tips
 <ul> -You always want to have a buffer with your broodlords to pretend the terran army from just running onto them. </ul>
-<ul> -If the terran hasn't taken any defining engagements in the last little while you probably dont want to attack with the broodlords as a potentially game throwing fight could be taken, instead get infestors or vipers and play slower. </ul>
+<ul> -If the terran hasn't taken any defining engagements in the last little while you probably dont want to attack with the broodlords as a potentially game throwing fight could be taken, instead get infestors or vipers and play slower. </ul>-->
 
 
 
