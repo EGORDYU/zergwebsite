@@ -21,24 +21,18 @@ New to Zerg? Here's a detailed guide how to beat Terran!
 
 
 ## Introduction
+This guide outlines what is the most dependable and consistent way to play versus Terran.
+
 Zerg vs Terran (ZvT) is the simplest matchup in the game. 
 
 You can do the same build order every game and get away with it because of the simple interactions between early defensive Zerg units and the Terrans' early aggressive units. 
 
-This guide outlines what is the most dependable and consistent way to play versus Terran.
-
-<!--## Outline
-
-#### Early Game
-
-#### Mid Game
-
-#### Late Game
-
-
-#### Key Words-->
-
-
+#### How to read build orders
+Figure 1:The first number on the left side of the line indicates what supply to make the object.
+Figure 2:The text after the supply indicates what you're making at that supply.
+Figure 3:If there is an "@" before the number, it indicates it is either a time or an amount you will have to build the object.
+Figure 4: On the right side it tells you how to do it correctly.
+{{< img src="/images/feature2/example.PNG" title="Notice" caption="Zzo Notice shortcode" alt="image alt" width="500px" height="" position="center" >}}
 
 ## Standard Opener
 
