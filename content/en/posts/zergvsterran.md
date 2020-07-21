@@ -27,6 +27,19 @@ You can do the same build order every game and get away with it because of the s
 
 This guide outlines what is the most dependable and consistent way to play versus Terran.
 
+<!--## Outline
+
+#### Early Game
+
+#### Mid Game
+
+#### Late Game
+
+
+#### Key Words-->
+
+
+
 ## Standard Opener
 
 This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third base down before the reaper arrives, so it won't get blocked.
