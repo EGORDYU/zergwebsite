@@ -44,15 +44,16 @@ Figure 4: On the right side it tells you how to do it correctly.
 
 ## Standard Opener
 
-This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third base down before the reaper arrives, so it won't get blocked.
+This is whats commonly known as the QLASH opening, you will get your third base down before the reaper arrives, so it won't get blocked.
 
-[VD: This is mumbo-jumbo. What is "QLASH broke"? What is meta? Why third base, where is the second one? Who's going to block me base?]
+This build will slightly delay your zergling speed in return for a faster third base. Your zergling speed will finish before the first hellions arrive.
 
-[I suggest you to outline the plan here in a 2-3 sentences: We start on defencive doing this, expanding when ready there, aiming at having N of this and M of that by the game end.]
+
+
 
 | Milestone      | What to Make     | How to Do it Correctly     |
 | -------------: | :---------- | :----------- |
-|  Supply 13 | Overlord   | Send this overlord to your natural(?) to scout for Terran scouting SCV or any potential bunker rushes. |
+|  Supply 13 | Overlord   | Send this overlord to your second base to scout for Terran scouting SCV or any potential bunker rushes. |
 |  Supply 16 | Hatchery   | Pull a drone from your mineral line @ ~200 minerals. A hatchery first is safe vs. virtually any build. |
 |  Supply 18 | Gas   | Rally 17th drone from egg |
 |  Supply 17(? was 18 last step?) | Spawning Pool   | Rally 18th drone from egg |
@@ -60,65 +61,37 @@ This is whats commonly known as the QLASH opening, since zergs on the team QLASH
 |  Supply 20 | 2x Queens 4x Lings   | (? what for? explain; and what 4x means? increase 4 times?) |
 |  Gas 60 |  | Pull 2 drones off of gas. Send 1 of these drones to take your Third base. |
 |  Supply 27 | Third Hatchery | (? what for? explain; e.g. "we need to increase the production speed to match Terran") |
+|  Gas 100 | Metabolic Boost | Zergling speed for the hellions |
+|  Supply 29 | Third Queen | |
+|  Supply 31 | Overlord ||
+|  @100% first inject | Make 2 drones and rally into your extractor |This times it out perfectly for 3:30 to have the right amount of gas later|
+|  Supply 40 | Overlord ||
+|  Supply 42 | Fourth Queen | At the second base|
+|  @3:30 Scout | Send overlord into their main base | Look for their building count and what tech they have|
+|  Supply 44 | Fifth Queen ||
+|  Supply 46 | Overlord ||
+|  @Third Hatchery | Sixth Queen ||
 
-
-
-
-
-{{< at at="27 Third Hatchery" >}} {{< / >}}
-
-{{< at at="@100 gas Metabolic boost" >}} (zergling speed){{< / >}}
-
-{{< at at="29 Third Queen" >}} {{< / >}}
-
-{{< at at="31 Overlord" >}} {{< / >}}
-
-{{< at at="@100% first inject" >}} Make 2 drones from your main and rally into gas{{< / >}}
-
-{{< at at="40 Overlord" >}} {{< / >}}
-
-{{< at at="42 Fourth Queen " >}}(@Natural Base){{< / >}}
-
-{{< at at="@3:30 Scout" >}} Send overlord into their main to scout{{< / >}}
-
-{{< at at="44 Fifth Queen " >}} Fifth Queen| (Use this queen to place a tumor in your main base){{< / >}}
-
-{{< at at="46 Overlord" >}}{{< / >}}
-
-{{< at at="@3rd Hatchery 6th Queen" >}}{{< / >}}
-
-#### 1-1-1 Reaction
+#### 1-1-1 (1 Barracks, 1 Factory, 1 Starport) Reaction
 
 Scouting tells: 
 Marine after reaper
 Hellions
 
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  @35 drones | Go up to 12-16 lings | Necessary to defend hellions|
+|  @4:15 | 1 more gas, lair and a baneling nest|This will keep you safe and get you fast baneling speed|
+|  @4:30 | 1 spore in each base |This goes for vs liberator or banshee|
+|  Drone Benchmark: 4:30 | 50 drones ||
+|  @5:00 | 2 Evolution Chambers, 2 more Extractors | For +1 +1 upgrades|
+|  @5:00 - 6:00 | Scout | If they have more than 8 hellions, its probably mech and you need to drop a roach warren|
+|  @100% Lair | Overseer scout | To confirm mech or bio|
+|  @100% Lair | Bane speed, Hydra Den, + 1 Extractor | If you want to go muta add 1 more extractor on top of that|
+|  @5:30-6:00 | Forth base + Macro hatchery | A macro hatchery is an extra hatchery for larva|
+|  Drone Benchmark: 5:30-6:00 | 66 drones | Easy to get if the early game was clean enough|
 
-
-{{< at at="@35 Drones " >}} Go up to 12-16 Zerglings to defend hellions {{< / >}}
-
-{{< at at="@4:15" >}} 1 more gas, baneling nest, lair{{< / >}}
-
-{{< at at="@4:30 " >}}1 spore in each base{{< / >}}
-
-benchmark:
- try hitting 50 drones by 4:30
-
-{{< at at="@5:00 " >}} 2 Evolution Chambers, 2 more Extractors{{< / >}}
-
-{{< at at="@5:00 - 6:00 " >}}If they have made more than 8 hellions it likely means its mech, a roach warren should be dropped if you suspect mech{{< / >}}
-
-{{< at at="@100% Lair" >}}Overseer scout to confirm bio or mech{{< / >}}
-
-
-{{< at at="@100% Lair" >}}Bane speed, Hydra Den + 1 Extractor if going hydra ling bane| spire + 2 Extractors if going muta ling bane {{< / >}}
-
-{{< at at="@5:30-6:00 " >}}Forth base + Macro hatchery (extra hatchery for larva){{< / >}}
-
-Benchmark:
- have 66 drones around 5:30-6:00 depending how your early game went
-
-#### 2-1-1 Reaction
+#### 2-1-1 (2 Barracks, 1 Factory, 1 Starport) Reaction
 
 Scouting tells:
 Reactor right after reaper
@@ -126,24 +99,18 @@ No hellions
 2nd barracks
 substantial amount of marines (~10 ish)
 
-{{< at at="@3:45 " >}}Evolution Chamber{{< / >}}
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  @3:45 | Evolution Chamber | For +1 Carapace|
+|  @100% Evolution Chamber | +1 Carapace| This helps a lot in the followup marine attack|
+|  @4:15 | 1 more Extractor|Important for teching|
+|  Drone Benchmark | 50 drones ||
+|  @after droning | Make 30 zerglings and 2 more queens(total 6 creep queens) | To defend the double medivac drop, hits around 5:00|
+|  @5:00 | Lair + Bane Nest | To transition and hold any following pressures|
+|  5:00 - 5:30 | Defend 2 medivac drop with 6 queens and 30 lings | Make sure to not run off creep to chase|
+|  @After the 2 medivac drop | Add 2 more Extractrs and second Evolution Chamber for +1 Melee ||
+|  Warning | Followup 32 marine drop with +1 | Keep a zergling outside the terrans base to scout for any followups|
 
-{{< at at="@100% Evolution Chamber" >}}+1 Carapace{{< / >}}
-
-{{< at at="@4:15 " >}}1 more Extractor{{< / >}}
-
-benchmark:
- should be able to hit 50 drones here 
-
-{{< at at="@after droning " >}}Make 30 zerglings and 2 more queens(total 6 creep queens){{< / >}}
-
-{{< at at="@5:00 " >}}Lair + Bane Nest{{< / >}}
-
-Two medivac drop with 16 marines: defend with your 6 creep queens and ~30 lings
-
-After defending add on 2 more Extractors and second Evolution Chamber for +1 attack
-
-Careful of the followup 32 marine drop/push with +1, keep lings outside their base to scout for any move outs.
 
 ## Mid Game VS Bio
 
@@ -162,11 +129,11 @@ You want to make around 16-- Hydras maximum if going the ling bane hydra ultra p
 #### Mutalisk
 If you are going mutalisk, you should be going for 6 gasses as opposed to the 5 gasses hydra ling bane takes.
 
-{{< at at="@100% 4th hatchery " >}} Go up to 7 gasses and around 80 drones{{< / >}}
-
-{{< at at="@100% Spire" >}} +1 Air Attack{{< / >}}
-
-{{< at at="@100% Spire " >}}Get as many mutas as you can while still being able to afford your upgrades.{{< / >}}
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  @100 Forth Hatchery | Go up to 7 gasses and 80 drones | To prepare for lategame|
+|  @100% Spire | +1 Air Attack| Important for large numbers of mutalisk|
+|  @Spire | Make mutalisk|Get as many as you can while still being able to afford your upgrades|
 
 ## Late Game vs Bio
 
@@ -174,16 +141,20 @@ Checkpoint: At this point you are either in a commanding position or have just h
 
 Add the ultralisk or broodlord build to the below for late game vs bio depending on which late game tech you want to play.
 
-{{< at at="@100% 1-1 upgrades get 2-2 " >}} This should be around 7:30 if you got your 1-1 upgrades on time{{< / >}}
-{{< at at="@7:30-8:00 Infestation Pit " >}} Get the appropriate amount of gasses (7 if hydra ling bane viper, 8 if with ultralisk){{< / >}}
-{{< at at="@100% Hive" >}}Get viperrs if they have tanks{{< / >}}
-{{< at at="@100% Hive " >}}Get T3 upgrades (+3/+3 and adrenal){{< / >}}
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  @100% +1/+1 upgrades  | Get +2/+2 upgrades | Should be around 7:30 if your 1-1 upgrades were on time|
+|  @7:30 - 8:00 |Infestation Pit| Go up to 7 gasses if you're playing with viper, 8 if you're making ultralisk|
+|  @Hive | Get Hive upgrades (+3/+3 and adrenal)|Get vipers if your opponent has tanks|
 
 #### Ultralisk
 When going ultralisk, you want maximum around 3-4 just for tanking, since they are very clunky and rarely get more value the more there are.
 
-{{< at at="@100% Hive " >}}Ultralisk Cavern{{< / >}}
-{{< at at="@100% Ultralisk Cavern " >}}Ultra armor then speed{{< / >}}
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  @100% Hive  | Ultralisk Cavern | |
+|  @100% Ultralisk Cavern|Ultra armor then speed| You won't be able to do anything without ultralisk armor so it's better to get it first|
+
 
 Ultralisk tips
 <ul> -You should always have your ultralisk in front so they dont get stuck behind the rest of your army </ul>
