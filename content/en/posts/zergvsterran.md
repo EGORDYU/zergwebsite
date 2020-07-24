@@ -18,39 +18,52 @@ image: images/feature2/ultralisk.png
 New to Zerg? Here's a detailed guide how to beat Terran!
 {{< /alert >}}
 
+This guide outlines what is the most dependable and consistent way to play Zerg versus Terran (a.k.a. ZvT), which is the simplest matchup in the game.
 
+## To Win, Have a Plan
 
-## Introduction
-This guide outlines what is the most dependable and consistent way to play versus Terran.
+A reactive, random game makes you lose. You have to have a game plan. 
 
-Zerg vs Terran (ZvT) is the simplest matchup in the game. 
+That plan is called a build order. You decide what do you build at each level of supply, and you stick to that plan.
 
-You can do the same build order every game and get away with it because of the simple interactions between early defensive Zerg units and the Terrans' early aggressive units. 
+In ZvT, you can do the same build order every game and get away with it because of the simple interactions between early defensive Zerg units and the Terrans' early aggressive units. 
 
-#### How to Read Build Orders
+<!--
+{{< alert theme="info" >}} 
+<strong>How to Read Build Orders</strong>
 Figure 1:The first number on the left side of the line indicates what supply to make the object.
 Figure 2:The text after the supply indicates what you're making at that supply.
 Figure 3:If there is an "@" before the number, it indicates it is either a time or an amount you will have to build the object.
 Figure 4: On the right side it tells you how to do it correctly.
-{{< img src="/images/feature2/example.PNG" title="Notice" caption="Zzo Notice shortcode" alt="image alt" width="500px" height="" position="center" >}}
+{{< / >}} 
+-->
+
+<!--
+{{< img src="/images/feature2/example.PNG" caption="How to Read Build Order" alt="image alt" width="500px" height="" position="center" >}}
+-->
 
 ## Standard Opener
 
 This is whats commonly known as the QLASH opening, since zergs on the team QLASH broke it into the meta, you will get your third base down before the reaper arrives, so it won't get blocked.
 
-{{< at at="13 Overlord" >}} Send this overlord to your natural to scout for their scouting SCV or any potential bunker rushes.{{< / >}}
+[VD: This is mumbo-jumbo. What is "QLASH broke"? What is meta? Why third base, where is the second one? Who's going to block me base?]
 
-{{< at at="16 Hatchery" >}} Pull a drone from your mineral line @ ~200 minerals. (A hatchery first is safe vs virtually any build) {{< / >}}
+[I suggest you to outline the plan here in a 2-3 sentences: We start on defencive doing this, expanding when ready there, aiming at having N of this and M of that by the game end.]
 
-{{< at at="18 Gas" >}} (rally 17th drone from egg){{< / >}}
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  Supply 13 | Overlord   | Send this overlord to your natural(?) to scout for Terran scouting SCV or any potential bunker rushes. |
+|  Supply 16 | Hatchery   | Pull a drone from your mineral line @ ~200 minerals. A hatchery first is safe vs. virtually any build. |
+|  Supply 18 | Gas   | Rally 17th drone from egg |
+|  Supply 17(? was 18 last step?) | Spawning Pool   | Rally 18th drone from egg |
+|   |    | Saturate Gas through rallying the next 2 drones and 1 from minerals (? 1 what?) |
+|  Supply 20 | 2x Queens 4x Lings   | (? what for? explain; and what 4x means? increase 4 times?) |
+|  Gas 60 |  | Pull 2 drones off of gas. Send 1 of these drones to take your Third base. |
+|  Supply 27 | Third Hatchery | (? what for? explain; e.g. "we need to increase the production speed to match Terran") |
 
-{{< at at="17 Spawning Pool " >}} (rally 18th drone from egg){{< / >}}
 
-{{< at >}} Saturate Gas through rallying the next 2 drones and 1 from minerals{{< / >}}
 
-{{< at at="20 2x Queens 4x Lings" >}} {{< / >}}
 
-{{< at at="@60 Gas" >}} Pull 2 drones off of gas | Send 1 of these drones to take your Third base{{< / >}}
 
 {{< at at="27 Third Hatchery" >}} {{< / >}}
 
