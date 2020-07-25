@@ -56,11 +56,11 @@ This build will slightly delay your zergling speed in return for a faster third 
 |  Supply 13 | Overlord   | Send this overlord to your second base to scout for Terran scouting SCV or any potential bunker rushes. |
 |  Supply 16 | Hatchery   | Pull a drone from your mineral line @ ~200 minerals. A hatchery first is safe vs. virtually any build. |
 |  Supply 18 | Gas   | Rally 17th drone from egg |
-|  Supply 17(? was 18 last step?) | Spawning Pool   | Rally 18th drone from egg |
-|   |    | Saturate Gas through rallying the next 2 drones and 1 from minerals (? 1 what?) |
-|  Supply 20 | 2x Queens 4x Lings   | (? what for? explain; and what 4x means? increase 4 times?) |
+|  Supply 17 | Spawning Pool   | Rally 18th drone from egg |
+|   |    | Saturate Gas through rallying the next 2 building drones and 1 drone from  your minerals) |
+|  Supply 20 | 2x Queens 4x Lings   | Make 2 queens and 2 sets of lings |
 |  Gas 60 |  | Pull 2 drones off of gas. Send 1 of these drones to take your Third base. |
-|  Supply 27 | Third Hatchery | (? what for? explain; e.g. "we need to increase the production speed to match Terran") |
+|  Supply 27 | Third Hatchery | For larva and economy |
 |  Gas 100 | Metabolic Boost | Zergling speed for the hellions |
 |  Supply 29 | Third Queen | |
 |  Supply 31 | Overlord ||
@@ -73,10 +73,10 @@ This build will slightly delay your zergling speed in return for a faster third 
 |  @Third Hatchery | Sixth Queen ||
 
 #### 1-1-1 (1 Barracks, 1 Factory, 1 Starport) Reaction
-
-Scouting tells: 
-Marine after reaper
-Hellions
+This build is a good entry into the midgame for terran. This branch of the build order will show you how enter the midgame cleanly. The scouting tells for 1-1-1 are as follows:
+If a marine is built after the reaper is done.
+If you see 2-4 hellions around 4 min.
+The absence of a second factory or barracks, or a third command center.
 
 | Milestone      | What to Make     | How to Do it Correctly     |
 | -------------: | :---------- | :----------- |
@@ -92,12 +92,11 @@ Hellions
 |  Drone Benchmark: 5:30-6:00 | 66 drones | Easy to get if the early game was clean enough|
 
 #### 2-1-1 (2 Barracks, 1 Factory, 1 Starport) Reaction
-
-Scouting tells:
-Reactor right after reaper
-No hellions
-2nd barracks
-substantial amount of marines (~10 ish)
+This build will hit with 16 marines and 2 medivacs around 5:00 - 5:15. This branch of the build order will show you how to hold it. The scouting tells for 2-1-1 are as follows:
+If there is a reactor on the barracks right after the reaper.
+If there are no hellions being produced.
+The second barracks is the biggest tell of this build.
+If you see 10+ marines it is almost definitely this build.
 
 | Milestone      | What to Make     | How to Do it Correctly     |
 | -------------: | :---------- | :----------- |
@@ -120,7 +119,9 @@ Beat their 1-1 push or defend their double marine drop
 
 #### Hydralisk
 Generally, five gases will support a solid ling bane hydra army. You do not need additional gasses till hive when you get 7 with viper tech and 8 with ultralisk.
-
+| Milestone      | What to Make     | How to Do it Correctly     |
+| -------------: | :---------- | :----------- |
+|  @100% Hydra Den | Get movement speed then range | Movement speed will benefit you slightly more to get first.|
 {{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
 
 <!-- change -->
