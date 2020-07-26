@@ -123,7 +123,7 @@ Generally, five gases will support a solid ling bane hydra army. You do not need
 | Milestone      | What to Make     | How to Do it Correctly     |
 | -------------: | :---------- | :----------- |
 |  @100% Hydra Den | Get movement speed then range | Movement speed will benefit you slightly more to get first.|
-{{< at at="@100% Hydra Den " >}} Get movement speed, then range {{< / >}}
+
 
 <!-- change -->
 You want to make around 16-- Hydras maximum if going the ling bane hydra ultra path to avoid body blocking the melee units.  When engaging with ling bane hydra, you want to engage, and back up with your hydras once your ling bane is killed (if it is killed).
