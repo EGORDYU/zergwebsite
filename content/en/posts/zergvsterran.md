@@ -119,6 +119,7 @@ Beat their 1-1 push or defend their double marine drop
 
 #### Hydralisk
 Generally, five gases will support a solid ling bane hydra army. You do not need additional gasses till hive when you get 7 with viper tech and 8 with ultralisk.
+
 | Milestone      | What to Make     | How to Do it Correctly     |
 | -------------: | :---------- | :----------- |
 |  @100% Hydra Den | Get movement speed then range | Movement speed will benefit you slightly more to get first.|
