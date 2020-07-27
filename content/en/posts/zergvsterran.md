@@ -159,10 +159,10 @@ When going ultralisk, you want maximum around 3-4 just for tanking, since they a
 
 
 Ultralisk tips
-<ul> -You should always have your ultralisk in front so they dont get stuck behind the rest of your army </ul>
-<ul> -Using ultralisk in counterattacks againts planetary fortresses is very useful as they take almost no damage from the cannon and can soak a lot for the lings/banes </ul>
-<ul> -Remember not to get too many ultralisk as they will progressively get worse the more you make. </ul>
-<ul> -Once the terran gets ghosts you will need to get infestors so they dont kill your ultralisk for free. </ul>
+- You should always have your ultralisk in front so they dont get stuck behind the rest of your army 
+- Using ultralisk in counterattacks againts planetary fortresses is very useful as they take almost no damage from the cannon and can soak a lot for the lings/banes 
+- Remember not to get too many ultralisk as they will progressively get worse the more you make. 
+- Once the terran gets ghosts you will need to get infestors so they dont kill your ultralisk for free.
 
 <!--#### Broodlord Timing
 I wouldn't reccomend broodlords againts terran because they really stunt your movement potential, but there are some strong broodlord timings you can do if the terran isn't prepared if you hit it correctly, this part just shows how to efficiently get broodlords out.
