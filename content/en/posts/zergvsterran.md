@@ -22,9 +22,9 @@ This guide outlines what is the most dependable and consistent way to play Zerg 
 
 ## To Win, Have a Plan
 
-A reactive, random game makes you lose. You have to have a game plan. 
+A messy, random game makes you lose. You have to have a game plan. 
 
-That plan is called a build order. You decide what do you build at each level of supply, and you stick to that plan.
+That plan is called a build order.
 
 In ZvT, you can do the same build order every game and get away with it because of the simple interactions between early defensive Zerg units and the Terrans' early aggressive units. 
 
@@ -164,7 +164,7 @@ Ultralisk tips
 - Remember not to get too many ultralisk as they will progressively get worse the more you make. 
 - Once the terran gets ghosts you will need to get infestors so they dont kill your ultralisk for free.
 
-{{< button href="https://twitter.com/" width="100px" height="36px" color="primary" >}}Contact Me{{< /button >}}
+{{< button href="https://twitter.com/" width="200px" height="100px" color="primary" >}}Contact{{< /button >}}
 
 <!--#### Broodlord Timing
 I wouldn't reccomend broodlords againts terran because they really stunt your movement potential, but there are some strong broodlord timings you can do if the terran isn't prepared if you hit it correctly, this part just shows how to efficiently get broodlords out.
