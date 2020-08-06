@@ -15,10 +15,10 @@ image: images/feature2/carbot-ultralisk.png
 ---
 
 {{< alert theme="info" >}} 
-New to Zerg? Here's a detailed guide how to beat Terran!
+This is a simple guide on how to play early-game vs terran and what unit compositions to make mid-late game.
 {{< /alert >}}
 
-This guide outlines what is the most dependable and consistent way to play Zerg versus Terran (a.k.a. ZvT), which is the simplest matchup in the game.
+This guide is not a complete step-by-step but just a general outline for new players.
 
 ## To Win, Have a Plan
 
@@ -45,8 +45,6 @@ Figure 4: On the right side it tells you how to do it correctly.
 
 This is a very common and easy-to-execute build order, but it will also set you up nicely for higher level of play when you improve.
 
-You can make small altercations to it, for example if you're having trouble againts hellbat allins you can make your baneling nest at 4:00 instead of the reccomended 4:30. However this is the general outline to the build and you can do with it what you wish.
-
 
 
 
@@ -66,9 +64,11 @@ You can make small altercations to it, for example if you're having trouble agai
 |  Supply 40 | Overlord ||
 |  Queens | Constantly make queens out of your natural and third base | For early game defense|
 |  @3:30 Scout | Send overlord into their main base | Look for their building count and what tech they have|
-|  @4:30 | Lair + Bane nest + 2 more gasses ||
+|  @4:30 | Lair + Bane nest + 2 more gasses + one spore in each mineral line ||
 |  @5:00 | 2 evolution chambers + 2 more gasses ||
 |  @100% Lair | Hydra den or Roach Warren + Forth base + Baneling speed + 6th gas if mech ||
+
+You can make small changes to it. For example, if you're having trouble against hellbat allins you can make your baneling nest at 4:00 instead of the recommended 4:30. However, this is the general outline to the build, and you can do with it what you wish.
 
 ## Scouting
 
@@ -76,27 +76,38 @@ Scouting terran is pretty simple, these are the ways to do it.
 
 | Milestone      | What to scout with     | What you're scouting for     |
 | -------------: | :---------- | :----------- |
-|  First overlord across the map | Overlord   | If there is a command center it is not a proxy barracks and you're safe for now. |
-|  3:30 | Overlord   | Send the first overlord into their main base to see what structures they have. |
+|  First overlord across the map | Overlord   | If there is a command center it is not a proxy barracks so they cannot have any aggressive units any time soon. |
+|  3:30 | Overlord   | Send the first overlord into their main base to see what structures they have. Look for any techlabs researching, if the starport one is researching its probably a banshee. |
 |  6:30 | Overseer   | Make an overseer to scout if they are commiting to mech (lots of factories) or bio (lots of barracks) |
-## Common Unit Compositions
+# Common Unit Compositions
 
-#### Vs Terran Bio
+## Vs Terran Bio
 
-Hydra Ling Bane
+#### Hydra Ling Bane
 {{< img src="/images/feature2/hydra-ling-bane.PNG" title="" caption="A surround with heavy dps by the hydras" alt="image alt" width="400px" height="300px" position="center" >}}
-Muta Ling Bane
-{{< img src="/images/feature2/mutalisk-ling-bane.PNG" title="" caption="A good chasing army" alt="image alt" width="400px" height="300px" position="center" >}}
-Ling Bane into Ultralisk Ling Bane
-{{< img src="/images/feature2/ultralisk-ling-bane.PNG" title="" caption="A part of the mid-late game zvt army" alt="image alt" width="400px" height="300px" position="center" >}}
-#### Vs Terran Mech
-Ravager Ling Bane
-{{< img src="/images/feature2/ravager-ling-bane.PNG" title="" caption="Concaving to attack" alt="image alt" width="400px" height="300px" position="center" >}}
-Ravager Ling Bane Swarmhost
-{{< img src="/images/feature2/ravager-ling-bane-swarmhost.PNG" title="" caption="Jumping on the mech base" alt="image alt" width="400px" height="300px" position="center" >}}
-Ravager Ling Bane Corruptor
-{{< img src="/images/feature2/ravager-ling-bane-corruptor.PNG" title="" caption="Taking care of the BCs with ease" alt="image alt" width="400px" height="300px" position="center" >}}
+Hydra ling bane is really good at sitting defensively and having a strong grasp on the midgame.
 
+#### Muta Ling Bane
+{{< img src="/images/feature2/mutalisk-ling-bane.PNG" title="" caption="A good chasing army" alt="image alt" width="400px" height="300px" position="center" >}}
+Muta ling bane is generally a very aggressive composition focusing on doing counter damage and taking care of drops.
+
+#### Ling Bane into Ultralisk Ling Bane
+{{< img src="/images/feature2/ultralisk-ling-bane.PNG" title="" caption="A part of the mid-late game zvt army" alt="image alt" width="400px" height="300px" position="center" >}}
+Ling Bane is a very drone heavy composition favoring trading and counterattacks rather than big fights.
+
+## Vs Terran Mech
+
+#### Ravager Ling Bane
+{{< img src="/images/feature2/ravager-ling-bane.PNG" title="" caption="Concaving to attack" alt="image alt" width="400px" height="300px" position="center" >}}
+Ravager ling bane is a very drone heavy composition that uses trades to get ahead, primarily by trading banelings.
+
+#### Ravager Ling Bane Swarmhost
+{{< img src="/images/feature2/ravager-ling-bane-swarmhost.PNG" title="" caption="Jumping on the mech base" alt="image alt" width="400px" height="300px" position="center" >}}
+Ravager ling bane is very good at trading by utilizing the swarmhost cooldown to fight mech, trading essentially free units.
+
+#### Ravager Ling Bane Corruptor
+{{< img src="/images/feature2/ravager-ling-bane-corruptor.PNG" title="" caption="Taking care of the BCs with ease" alt="image alt" width="400px" height="300px" position="center" >}}
+Ravager ling bane corruptor is often used only when the terran player goes for a battlecruiser opening, since they won't have an impressive ground army.
 
 
 
