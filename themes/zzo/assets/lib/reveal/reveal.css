@@ -234,7 +234,7 @@ body {
   .reveal .controls button {
     position: absolute;
     padding: 0;
-    background-color: transparent;
+    background-color: black;
     border: 0;
     outline: 0;
     cursor: pointer;
@@ -954,7 +954,7 @@ body {
   padding: 6px 14px;
   border: 2px solid #ccc;
   font-size: 16px;
-  background: transparent;
+  background: black;
   cursor: pointer; }
   .reveal .pause-overlay .resume-button:hover {
     color: #fff;
