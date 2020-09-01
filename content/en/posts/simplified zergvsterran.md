@@ -48,7 +48,7 @@ This is a very common and easy-to-execute build order, but it will also set you 
 
 
 
-| Milestone      | What to Make     | Extra info    |
+| Milestone      | What to Make     | Tips/How to Execute    |
 | -------------: | :---------- | :----------- |
 |  Supply 13 | Overlord   | Send this overlord to your second base to scout for Terran scouting SCV or any potential bunker rushes. |
 |  Supply 16 | Hatchery   | Pull a drone from your mineral line @ ~200 minerals. A hatchery first is safe vs. virtually any build. |

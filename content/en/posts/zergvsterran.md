@@ -51,7 +51,7 @@ This build will slightly delay your zergling speed in return for a faster third 
 
 
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute      |
 | -------------: | :---------- | :----------- |
 |  Supply 13 | Overlord   | Send this overlord to your second base to scout for Terran scouting SCV or any potential bunker rushes. |
 |  Supply 16 | Hatchery   | Pull a drone from your mineral line @ ~200 minerals. A hatchery first is safe vs. virtually any build. |
@@ -78,7 +78,7 @@ If a marine is built after the reaper is done.
 If you see 2-4 hellions around 4 min.
 The absence of a second factory or barracks, or a third command center.
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute      |
 | -------------: | :---------- | :----------- |
 |  @35 drones | Go up to 12-16 lings | Necessary to defend hellions|
 |  @4:15 | 1 more gas, lair and a baneling nest|This will keep you safe and get you fast baneling speed|
@@ -98,7 +98,7 @@ If there are no hellions being produced.
 The second barracks is the biggest tell of this build.
 If you see 10+ marines it is almost definitely this build.
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute     |
 | -------------: | :---------- | :----------- |
 |  @3:45 | Evolution Chamber | For +1 Carapace|
 |  @100% Evolution Chamber | +1 Carapace| This helps a lot in the followup marine attack|
@@ -120,7 +120,7 @@ Beat their 1-1 push or defend their double marine drop
 #### Hydralisk
 Generally, five gases will support a solid ling bane hydra army. You do not need additional gasses till hive when you get 7 with viper tech and 8 with ultralisk.
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute      |
 | -------------: | :---------- | :----------- |
 |  @100% Hydra Den | Get movement speed then range | Movement speed will benefit you slightly more to get first.|
 
@@ -131,7 +131,7 @@ You want to make around 16-- Hydras maximum if going the ling bane hydra ultra p
 #### Mutalisk
 If you are going mutalisk, you should be going for 6 gasses as opposed to the 5 gasses hydra ling bane takes.
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute      |
 | -------------: | :---------- | :----------- |
 |  @100 Forth Hatchery | Go up to 7 gasses and 80 drones | To prepare for lategame|
 |  @100% Spire | +1 Air Attack| Important for large numbers of mutalisk|
@@ -143,7 +143,7 @@ Checkpoint: At this point you are either in a commanding position or have just h
 
 Add the ultralisk or broodlord build to the below for late game vs bio depending on which late game tech you want to play.
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute      |
 | -------------: | :---------- | :----------- |
 |  @100% +1/+1 upgrades  | Get +2/+2 upgrades | Should be around 7:30 if your 1-1 upgrades were on time|
 |  @7:30 - 8:00 |Infestation Pit| Go up to 7 gasses if you're playing with viper, 8 if you're making ultralisk|
@@ -152,7 +152,7 @@ Add the ultralisk or broodlord build to the below for late game vs bio depending
 #### Ultralisk
 When going ultralisk, you want maximum around 3-4 just for tanking, since they are very clunky and rarely get more value the more there are.
 
-| Milestone      | What to Make     | How to Do it Correctly     |
+| Milestone      | What to Make     | Tips/How to Execute      |
 | -------------: | :---------- | :----------- |
 |  @100% Hive  | Ultralisk Cavern | |
 |  @100% Ultralisk Cavern|Ultra armor then speed| You won't be able to do anything without ultralisk armor so it's better to get it first|
