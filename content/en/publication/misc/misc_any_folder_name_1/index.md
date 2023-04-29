@@ -1,7 +1,7 @@
 ---
 authors: ['zzossig', 'teemo']
 publication: "abc"
-abstract: "Duis vulputate odio vitae consectetur lacinia. Vivamus tellus nisi, hendrerit eget tortor eget, rutrum lobortis tellus. Donec convallis scelerisque egestas. Vestibulum ex urna, commodo at interdum vitae, malesuada id arcu. Praesent et enim libero. Proin et felis nisi. Duis imperdiet placerat dapibus."
+description: "Duis vulputate odio vitae consectetur lacinia. Vivamus tellus nisi, hendrerit eget tortor eget, rutrum lobortis tellus. Donec convallis scelerisque egestas. Vestibulum ex urna, commodo at interdum vitae, malesuada id arcu. Praesent et enim libero. Proin et felis nisi. Duis imperdiet placerat dapibus."
 links:
  - name: url
    link: https://google.com
