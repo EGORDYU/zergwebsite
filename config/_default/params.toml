@@ -44,11 +44,11 @@ pubPaginate = 20
 # whoami
 myname = "Egor Dyuzhev"
 email = "hivemindsc@gmail.com"
-twitch = "https://twitch.tv/egordyu"
+twitch = "https://twitch.tv/basedegor"
 whoami = "Sc2 Coach & Grandmaster"
 bioImageUrl = "/images/whoami/itsme.jpg"
 useGravatar = false
-location = "Oshawa, Ontario"
+location = "Calgary, Alberta"
 
 # sidebar
 enableBio = true
@@ -145,7 +145,7 @@ commento = false
   email = "mailto:hivemindsc@gmail.com"
   phone = ""  
   twitter = "https://twitter.com/ProbablyIsEGOR"
-  twitch = "https://twitch.tv/egordyu"
+  twitch = "https://twitch.tv/basedegor"
   stack-overflow = ""
   google-plus = ""
   youtube = "https://www.youtube.com/channel/UCuvG1IUnAlmWiagQ8Y33bwA/featured?view_as=subscriber"
